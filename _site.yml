@@ -1,7 +1,0 @@
-name: "David Zakharov"
-output_dir: "."
-navbar:
-  title: "David Zakharov"
-output:
-   prettydoc::html_pretty:
-    theme: HPSTR
